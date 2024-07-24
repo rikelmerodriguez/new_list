@@ -54,19 +54,3 @@ Para executar este projeto localmente em sua máquina, siga estas etapas:
 
 
 <br>
-
-## 📂 Temas abordados
-- ``TypeScript``: Este projeto utiliza TypeScript, uma extensão tipada de JavaScript, para trazer um nível adicional de segurança e previsibilidade ao código. O TypeScript permite a detecção precoce de erros e fornece autocompletar melhorado no editor de código, tornando o desenvolvimento mais eficiente e menos propenso a erros.
-
-- ``React``: O React é usado neste projeto para construir a interface do usuário. O React permite a criação de componentes reutilizáveis, tornando o código mais limpo e fácil de manter. Além disso, o React facilita a criação de interfaces de usuário interativas e dinâmicas.
-
-- ``Redux``: Redux é uma biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo. É mais comumente usado com bibliotecas associadas como React ou Angular para construir interfaces de usuário. Redux é usado neste projeto para gerenciar o estado do aplicativo de uma maneira previsível. Com o Redux, o estado do aplicativo é armazenado em um único objeto, facilitando o rastreamento de alterações ao longo do tempo e a depuração de problemas. Além disso, o Redux permite que você escreva lógica de negócios complexa em um local centralizado, em vez de espalhá-la por vários componentes.
-
-- ``Styled Components``: Styled Components é uma biblioteca para estilizar componentes React. Neste projeto, Styled Components é usado para escrever CSS em JavaScript, permitindo que os estilos sejam dinâmicos e baseados em props. Isso também ajuda a manter os estilos encapsulados no componente, evitando conflitos de estilo e tornando o código mais limpo.
-
-<br>
-
-## 🙋🏻‍♂️ Autor
-
-| [<img src="https://avatars.githubusercontent.com/u/103857382?v=4" width=115><br><sub>Bruno Oliveira</sub>](https://github.com/BrunoOliveira16) |
-| :---: |
